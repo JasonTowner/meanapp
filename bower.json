@@ -1,0 +1,21 @@
+{
+  "name": "MeanApp",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jasonatmoxy/meanapp",
+  "authors": [
+    "\"Jason Towner <jsntowner@gmail.com>\""
+  ],
+  "description": "Web apps using MEAN",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "toastr": "~2.0.2",
+    "angular": "~1.2.16",
+    "angular-resource": "~1.2.16",
+    "angular-route": "~1.2.16"
+  }
+}
